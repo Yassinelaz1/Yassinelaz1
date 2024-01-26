@@ -95,7 +95,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yassinelaz1&theme=github	)](https://github.com/Yassinelaz1/github-readme-activity-graph)
+[![Yassinelaz1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yassinelaz1&theme=github	)](https://github.com/Yassinelaz1/github-readme-activity-graph)
 
  
 </details>
