@@ -1,5 +1,5 @@
-### Hi there 👋
 
+  <img align="right" alt="Coding" width="400" src=header.png">
 <!--
 **Yassinelaz1/Yassinelaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
