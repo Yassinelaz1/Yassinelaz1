@@ -6,18 +6,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -95,7 +83,7 @@
 	
 <p align="center">
     <a href="https://github.com/Yassinelaz1/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yassinelaz1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Yassinelaz1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yassinelaz1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassinelaz1&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Yassinelaz1" height="230px"/>
 <br/>
 
@@ -116,7 +104,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yassinelaz1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yassinelaz1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Yassinelaz1" /></a> </p>
 
 [![@Yassinelaz1's Holopin board](https://holopin.io/api/user/board?user=Yassinelaz1)](https://holopin.io/@Yassinelaz1)
 	
