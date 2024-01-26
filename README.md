@@ -1,5 +1,6 @@
 
-  <img align="right" alt="[Coding" width="400" src=header.png](https://github.com/Yassinelaz1/Yassinelaz1/blob/main/header.png?raw=true)">
+  <img align="right" alt="![image](https://github.com/Yassinelaz1/Yassinelaz1/assets/146721050/8f43e1f5-840a-4934-8242-c385636f24eb)
+">
 <!--
 **Yassinelaz1/Yassinelaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
