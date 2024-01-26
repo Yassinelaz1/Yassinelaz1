@@ -77,38 +77,3 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/Yassinelaz1/github-readme-stats">
-	    <img alt="Yassinelaz1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yassinelaz1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassinelaz1&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Yassinelaz1" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Yassinelaz1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yassinelaz1&theme=github	)](https://github.com/Yassinelaz1/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yassinelaz1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Yassinelaz1" /></a> </p>
-
-[![@Yassinelaz1's Holopin board](https://holopin.io/api/user/board?user=Yassinelaz1)](https://holopin.io/@Yassinelaz1)
-	
-
-
-</br></br>
-	
